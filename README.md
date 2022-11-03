@@ -17,3 +17,4 @@ a simple calendar application that allows a user to save events for each hour of
 ### Demo
 
 To visit the site [click here](https://martas333.github.io/challenge5_dayplanner/)
+![Screenshot](https://github.com/MartaS333/challenge5_dayplanner/blob/main/assets/screenshot.png)
