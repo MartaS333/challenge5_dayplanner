@@ -16,4 +16,4 @@ a simple calendar application that allows a user to save events for each hour of
 
 ### Demo
 
-Link to deployed app on heroku [click here](https://frightening-phantom-49597.herokuapp.com/)
+To visit the site [click here](https://martas333.github.io/challenge5_dayplanner/)
